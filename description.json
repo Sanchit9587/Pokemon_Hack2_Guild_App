@@ -1,0 +1,22 @@
+{
+            "Charizard": {
+              "type": ["Fire", "Flying"],
+              "physical_appearance": "Large, orange, dragon-like Pokémon with powerful wings, a long tail tipped with a flame, sharp claws, and a horned head.",
+              "resembles": "Dragon (with some features of a lizard/bat)"
+            },
+            "Mewtwo": {
+              "type": ["Psychic"],
+              "physical_appearance": "Tall, humanoid Pokémon with a sleek, pale-gray body, feline-like face, long purple tail, three-fingered hands, and a tubular structure extending from the back of its head to its spine.",
+              "resembles": "Humanoid cat-like creature"
+            },
+            "Pikachu": {
+              "type": ["Electric"],
+              "physical_appearance": "Small, yellow, rodent-like Pokémon with long, pointed ears tipped in black, red cheeks that store electricity, short limbs, and a lightning bolt-shaped tail.",
+              "resembles": "Mouse"
+            },
+            "Bulbasaur": {
+              "type": ["Grass", "Poison"],
+              "physical_appearance": "Small, quadruped Pokémon with blue-green skin, darker patches, red eyes, pointed ears, and a large green plant bulb on its back.",
+              "resembles": "Amphibian/reptile (frog or toad with dinosaur traits)"
+            }           
+}
